@@ -125,12 +125,26 @@ class BootScene extends Phaser.Scene {
 
     const LOADING_MESSAGES = [
       "i hate coding this",
-      "tails1154 is charagd",
+      "tails is chara",
       "underscore underscore underscore underscore underscore underscore",
       "hello dragon guy",
       "idk what to put here",
       "fridge",
-      "webtv"
+      "gdbigqb is amazing"
+      "driving you demon since 1.6!"
+      "not educational!"
+      "AND HIS NAME IS-"
+      "If youre famous, prepare yourself because requests are coming!
+      "it floats back"
+      "sonion"
+      "gee dee bee eye gee cue bee said"
+      "timbob"
+      "people are named jim and jon but wut bout jom?
+      "insert dash spider here"
+      "ARSENAL JUMPSCARE"
+      "Cosmo aint real buddy"
+      "joe is your lifting partner"
+      "tails loves sucking"
     ];
     const sliderOriginX = cx - 105;
     const sliderOriginY = cy + 110;
