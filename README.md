@@ -1,13 +1,13 @@
 # "SplitGDPS" on the web
 
 
-A mod of Web Dashers with GDPS support
+A mod of Split Dashers but like better
 
 
-This is in early alpha, so its pretty buggy and in most cases, unplayable
+This is in alpha, so its pretty buggy and in most cases, unplayable
 
 
-[Play Online](https://splitdashers.splitgdps.tails1154.com)
+[Play Official Version Online](https://splitdashers.splitgdps.tails1154.com)
 
 
 
