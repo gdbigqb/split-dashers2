@@ -134,7 +134,7 @@ class BootScene extends Phaser.Scene {
       "driving you demon since 1.6!"
       "not educational!"
       "AND HIS NAME IS-"
-      "If youre famous, prepare yourself because requests are coming!
+      "If youre famous, prepare yourself because requests are coming!"
       "it floats back"
       "sonion"
       "gee dee bee eye gee cue bee said"
